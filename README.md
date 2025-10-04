@@ -1,16 +1,9 @@
 # flutter_basic
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![시작 화면](https://github.com/mmn1300/images/blob/main/minesweeper_exam/index.png)
+![로그인 화면](https://github.com/mmn1300/images/blob/main/minesweeper_exam/login.png)
+![회원가입 화면](https://github.com/mmn1300/images/blob/main/minesweeper_exam/signin.png)
+![메인 화면](https://github.com/mmn1300/images/blob/main/minesweeper_exam/main.png)
+![인게임 화면](https://github.com/mmn1300/images/blob/main/minesweeper_exam/ingame.png)
